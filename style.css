@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #dd5102; /*18d26e;*/
+  color: #dd5102 !important; /*18d26e;*/
   transition: 0.5s;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #dd5102; /*#18d36e;*/
+  color: #dd5102 !important; /*#18d36e;*/
   outline: none;
   text-decoration: none;
 }
