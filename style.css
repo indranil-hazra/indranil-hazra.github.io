@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: dd5102; /*18d26e;*/
+  color: #dd5102; /*18d26e;*/
   transition: 0.5s;
   text-decoration: none;
 }
@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #ff2300; /*#18d36e;*/
+  color: #dd5102; /*#18d36e;*/
   outline: none;
   text-decoration: none;
 }
@@ -55,7 +55,7 @@ h6 {
   opacity: 0;
   right: 15px;
   bottom: 15px;
-  z-index: 0;
+  z-index: 996;
   background: #dd5102; /*#18d26e;*/
   width: 40px;
   height: 40px;
@@ -120,7 +120,7 @@ h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(100, 0, 0, 0.9);
   height: 80px;
 }
 
